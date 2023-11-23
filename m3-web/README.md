@@ -39,3 +39,6 @@ import '@material/web/checkbox/checkbox.js';
 </body>
 ```
 
+![image](https://github.com/iyarivky/material-design-training/assets/101973571/44930fcb-0a0e-4894-9797-23c57d5f4bec)
+
+
